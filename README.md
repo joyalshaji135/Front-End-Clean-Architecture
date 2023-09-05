@@ -5,7 +5,7 @@ Deployment Link Generate : https://joyalshaji135.github.io/Front-End-Clean-Archi
 ==> build/index.html
 
 
-<h6>build</h6>
+build
 |   |
 |   |_____asset
 |   |         |_____style-css
@@ -61,7 +61,7 @@ Deployment Link Generate : https://joyalshaji135.github.io/Front-End-Clean-Archi
 |   |_____page-n.html
 |   |
 |   |
-<h6>source</h6>
+source
     |
     |_____scripts
     |           |_____vendors
